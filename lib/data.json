@@ -1,0 +1,32 @@
+{
+  "coord": { "lon": 66.9905, "lat": 24.861 },
+  "weather": [
+    { "id": 301, "main": "Drizzle", "description": "drizzle", "icon": "09d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 29.08,
+    "feels_like": 34.74,
+    "temp_min": 29.08,
+    "temp_max": 29.08,
+    "pressure": 1000,
+    "humidity": 79,
+    "sea_level": 1000,
+    "grnd_level": 998
+  },
+  "visibility": 4000,
+  "wind": { "speed": 7.72, "deg": 240 },
+  "clouds": { "all": 100 },
+  "dt": 1722949904,
+  "sys": {
+    "type": 1,
+    "id": 7576,
+    "country": "PK",
+    "sunrise": 1722906134,
+    "sunset": 1722953616
+  },
+  "timezone": 18000,
+  "id": 1174872,
+  "name": "Karachi",
+  "cod": 200
+}
